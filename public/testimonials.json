@@ -1,0 +1,32 @@
+[
+    {
+      "name": "John Smith",
+      "description": "Amazing experience! The food was delicious, and the service was excellent.",
+      "rating": 4.9,
+      "image": "https://th.bing.com/th/id/OIG.0dO7c3VSQvZr0tVzp.OY?w=1024&h=1024&rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Emily Johnson",
+      "description": "I highly recommend this restaurant. The ambiance is great, and the dishes are always flavorful.",
+      "rating": 4.5,
+      "image": "https://th.bing.com/th/id/OIG.2e6Jy.cWT_WL8nHKd8rZ?pid=ImgGn"
+    },
+    {
+      "name": "David Miller",
+      "description": "Fantastic food! The chef's attention to detail is impressive. I'll definitely be coming back.",
+      "rating": 4.8,
+      "image": "https://th.bing.com/th/id/OIG.ccnmo.Vmf_5bvqmbq_Am?w=1024&h=1024&rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Lisa Davis",
+      "description": "A delightful dining experience. The staff is friendly, and the menu offers a variety of tasty options.",
+      "rating": 4.5,
+      "image": "https://th.bing.com/th/id/OIG.r.GjOZ6NgMLRC53uVnr1?pid=ImgGn"
+    },
+    {
+      "name": "Michael Brown",
+      "description": "Exquisite flavors and top-notch service. One of the best dining experiences I've had!",
+      "rating": 4.9,
+      "image": "https://th.bing.com/th/id/OIG.jbaDQm0IRVrHveKFKCi9?pid=ImgGn"
+    }
+]
