@@ -5,7 +5,7 @@ const AdminProfile = () => {
 
     return (
         <>
-        {/* ffsadfsfasfsdfg */}
+        {/* ffsadfsfasfsdf */}
             <DashboardSectionTitle heading={'Admin profile'}>
 
             </DashboardSectionTitle>
