@@ -53,6 +53,16 @@ const Navbar = () => {
                     <GiMeal className="text-2xl text-[#8ABB6A] "></GiMeal  > Meals
                 </NavLink>
             </li>
+            <li>
+                <NavLink
+                    to="/blog"
+                    className={({ isActive, isPending }) =>
+                        isPending ? "pending" : isActive ? "text-[#FFDB74] underline" : ""
+                    }
+                >
+                    <GiMeal className="text-2xl text-[#8ABB6A] "></GiMeal  > blog
+                </NavLink>
+            </li>
 
         </>
     const alsoOnlyForPhoneUser =
@@ -155,6 +165,7 @@ const Navbar = () => {
             >
                 <GiMeal className="text-2xl text-[#8ABB6A] interactable"></GiMeal  >  <span className="text-sm -ml-3">Meals</span>
             </NavLink>
+          
         </>
     const onlyForValidPCUser =
         <>
@@ -279,6 +290,16 @@ const Navbar = () => {
                                                         <RiLoginBoxFill title="Log In" className="text-2xl text-[#8ABB6A] interactable  "></RiLoginBoxFill > Log In
                                                     </NavLink>
                                             }
+                                        </li>
+                                        <li>
+                                            <NavLink
+                                                to="/blog"
+                                                className={({ isActive, isPending }) =>
+                                                    isPending ? "pending" : isActive ? "text-[#FFDB74] underline" : ""
+                                                }
+                                            >
+                                                <FaUser className='text-2xl text-[#8ABB6A] interactable' ></FaUser  >  Blog
+                                            </NavLink>
                                         </li>
                                         <li>
                                             <NavLink

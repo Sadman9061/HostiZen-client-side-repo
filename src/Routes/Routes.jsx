@@ -28,6 +28,7 @@ import AddMeals from "../pages/Admin/AddMeals/AddMeals";
 import UpdateReviews from "../pages/UpdateReviews/UpdateReviews";
 import AdminRoute from "../adminRoute/AdminRoute";
 import UpdateMeal from "../pages/Admin/UpdateMeal/UpdateMeal";
+import Blog from "../pages/Blog/Blog";
 
 
 
@@ -62,6 +63,10 @@ export const router = createBrowserRouter([
       {
         path: "/upComingMeals",
         element: <UpComing></UpComing>
+      },
+      {
+        path: "/blog",
+        element: <Blog></Blog>
       }
     ]
   },
