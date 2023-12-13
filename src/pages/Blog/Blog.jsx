@@ -113,7 +113,7 @@ const Blog = () => {
 
 
 
-                            {/* 6666666666666666666 */}
+                            {/* 666666666666666 */}
                             <div className="card pt-0 md:pt-0 lg:pt-24 sticky top-0 ] z-[5]  transition-all duration-500">
                                 <div className="border-black border-2 shadow-xl  drop-shadow-md h-[90vh] md:h-[70vh] lg:h-[50vh] p-4 md:p-16 rounded-lg bg-lime-100 hover:-translate-y-10 z-[5] ease-linear duration-75   mt-16">
                                     <h1 className="text-3xl font-semibold ">
