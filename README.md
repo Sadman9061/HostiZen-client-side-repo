@@ -47,7 +47,7 @@ Welcome to the Hostel Management System, a robust MERN (MongoDB, Express.js, Rea
 - Admin Profile, Manage Users, Add Meal, All Meals, All Reviews, Serve Meals, Upcoming Meals sections.
 
 ## Project Links
-- Hostel Management System
+- https://bistro-boss-be5b4.web.app/
 
 
 
